@@ -17,6 +17,8 @@ Notes:
 How to find the name of your network adapter (in this case specifically wi-fi):
 Running ip link should do it. If your laptop also has an ethernet port, or you are using a VPN, there will be multiple, look for one where the link state is "UP" in bright green letters. That should be your wi-fi card adapter name. They usually start with "wl" to indicate wifi.
 
+I am currently working on one that involves using ifconfig, whether or not it will be incorporated in this repo, I am not sure of.
+
 How-to change adapter name for script video:
 [Editing Script Tutuorial.webm](https://github.com/user-attachments/assets/2ab689e1-5f1f-4d13-ad33-17e84690ab29)
 
