@@ -1,4 +1,4 @@
-# Mac-Spoofer-Script
+# Mac Spoofer Script
 ![macchanger](https://github.com/user-attachments/assets/4566bf70-4cf3-4c57-a5b8-e68a93db9eeb)
 
 Enjoy this simple macchanger script, but first, you need to have a couple of things: 
