@@ -18,7 +18,8 @@ How to find the name of your network adapter (in this case specifically wi-fi):
 Running ip link should do it. If your laptop also has an ethernet port, or you are using a VPN, there will be multiple, look for one where the link state is "UP" in bright green letters. That should be your wi-fi card adapter name. They usually start with "wl" to indicate wifi.
 
 How-to change adapter name for script video:
-[Screencast_20260407_145730.webm](https://github.com/user-attachments/assets/3948eb78-0995-48ac-b809-23a636ee39b5)
+[Editing Script Tutuorial.webm](https://github.com/user-attachments/assets/2ab689e1-5f1f-4d13-ad33-17e84690ab29)
+
 
 
 
