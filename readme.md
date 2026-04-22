@@ -5,13 +5,13 @@ Enjoy this simple macchanger script, but first, you need to have a couple of thi
 1. macchanger installed, any version should work, but newest would be best.
 2. Allow this to be executed as a script, you can use chmod or through the GUI.
 3. You NEED to know the name of your Wi-Fi adapter.
-4. You need ip link installed, though this is common on most systems. You can check by typing "ip link".
+4. You need ip link installed, though this is common on most systems. You can check by typing "ip link". If it is not installed, you can install it by running `sudo apt install iproute2`
 
 # How-to launch
 After you download the script, you will have to make it executable, this can be done with chmod or through the GUI. Right now we will go with chmod.
 1. cd into the directory you downloaded it to (probably downloads)
-2. Run "sudo chmod 777 macchangerscript.sh" this gives it executable permission, but not root privliges.
-3. On linux it is really easy, just run "sudo ./macchangerscript.sh"
+2. Run `sudo chmod 777 macchangerscript.sh` this gives it executable permission, but not root privliges.
+3. Then run `sudo ./macchangerscript.sh`
 4. That should do it.
 
 # Notes:
